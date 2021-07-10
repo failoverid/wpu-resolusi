@@ -4,3 +4,4 @@ RENCANA CONTENT WPU
   *ID AOV
   *ID GI
 - Mengedit Wajah SIMPZ
+- Struktur Anggota
