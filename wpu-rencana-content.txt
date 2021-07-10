@@ -3,5 +3,5 @@ RENCANA CONTENT WPU
 - Membuat ID SIMPZ
   *ID AOV
   *ID GI
-- Mengedit Wajah SIMPZ
 - Struktur Anggota
+- Menambah Framework
