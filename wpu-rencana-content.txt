@@ -1,6 +1,8 @@
 RENCANA CONTENT WPU 
 
 - Membuat ID SIMPZ
+- Mengedit Wajah SIMPZ
+- Membuat password
   *ID AOV
   *ID GI
 - Struktur Anggota
